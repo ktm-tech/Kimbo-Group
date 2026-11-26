@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 150" role="img" aria-labelledby="kgTitle kgDesc">
+<title id="kgTitle">Kimbo Group — KG logo</title>
+<desc id="kgDesc">KG monogram in green and white with KIMBO GROUP wordmark. Tagline excluded.</desc>
+<!--
+  KIMBO GROUP — official website logo (reversed for dark navbar/footer).
+  Transparent background, tightly cropped viewBox, no tagline/motto.
+  Brand green matches site --orange variable: #00D72B.
+  Letterforms use system heavy-italic stack so the SVG renders
+  identically as an <img> without external webfont dependencies.
+-->
+<g font-family="'Arial Black','Helvetica Neue',Arial,Helvetica,sans-serif" font-weight="900" font-style="italic"><text x="2" y="118" font-size="128" letter-spacing="-8" fill="#00D72B" transform="skewX(-4)">K</text><text x="84" y="118" font-size="128" letter-spacing="-6" fill="#FFFFFF" transform="skewX(-4)">G</text><text x="212" y="92" font-size="52" letter-spacing="0.5" fill="#FFFFFF" transform="skewX(-4)">KIMBO GROUP</text><rect x="214" y="96" width="212" height="8" fill="#00D72B" transform="skewX(-4)"/></g>
+</svg>
